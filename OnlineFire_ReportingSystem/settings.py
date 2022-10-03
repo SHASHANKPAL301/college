@@ -13,7 +13,7 @@ SECRET_KEY = '5fv_1886ls8mb8fm^8mnniq=8z0)_jv(@4k6g7(czfmv82wxnz'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = [ '127.0.0.1','django798.herokuapp.com']
+ALLOWED_HOSTS = [ '127.0.0.1','reporting698.herokuapp.com']
 
 
 # Application definition
